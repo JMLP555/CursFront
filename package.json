@@ -1,0 +1,22 @@
+{
+  "name": "cursfront",
+  "version": "1.0.0",
+  "description": "\"# CursFront\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMLP555/CursFront.git"
+  },
+  "author": "Joan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMLP555/CursFront/issues"
+  },
+  "homepage": "https://github.com/JMLP555/CursFront#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
